@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.*;
-class TM_02Proj1
+class TM_01Proj1
 {
   public static void main(String[] args)throws Exception
    {
